@@ -1,2 +1,25 @@
 # AI-ML-Prompt-Engineering-Lab
-Generating SWOT analyses and prompts using prompt engineering techniques for a career as a police officer by the city of White Settlement in Texas, found on the career website Indeed.
+The purpose of this lab is to practice prompt engineering techniques by generating and refining a SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis.  
+**Through this process, I will:**
+- Select a company and role from Indeed.com.
+- Use multiple Large Language Models (LLMs) to create SWOT analyses.
+- Iteratively refine prompts to improve the quality of results.
+- Develop a final SWOT analysis connected to my field of study.
+- Translate the analysis into an interview-ready response.
+
+This lab emphasizes experimentation, comparison, and refinement to achieve a polished and professional deliverable set.
+
+---
+
+## Selected Company & Job Posting
+
+**Company:** City of White Settlement — Police Department  
+**Role:** Police Officer / Police Recruit (Job Post 9.2025)  
+**Location:** 8900 Clifford Street, White Settlement, TX 76108  
+**Compensation:** $59,889.44 per year — Full-time  
+**Company Rating:** 3.1 / 5 stars (Indeed)  
+
+---
+
+## Connection to My Field of Study
+This role was selected because it directly aligns with my desired career path in law enforcement. Conducting a SWOT analysis of the City of White Settlement Police Department will provide insight into organizational strengths, challenges, and opportunities, while also preparing me to highlight how my background and field of study make me a strong candidate in an interview setting.

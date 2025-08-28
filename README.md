@@ -1,2 +1,2 @@
 # AI-ML-Prompt-Engineering-Lab
-Prompt Engineering techniques to generate SWOT analyses for a career as a police officer based off of Indeed.
+Generating SWOT analyses and prompts using prompt engineering techniques for a career as a police officer by the city of White Settlement in Texas, found on the career website Indeed.

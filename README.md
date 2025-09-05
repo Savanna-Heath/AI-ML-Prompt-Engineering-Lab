@@ -17,7 +17,8 @@ This lab emphasizes experimentation, comparison, and refinement to achieve a pol
 **Role:** Police Officer / Police Recruit (Job Post 9.2025)  
 **Location:** 8900 Clifford Street, White Settlement, TX 76108  
 **Compensation:** $59,889.44 per year — Full-time  
-**Company Rating:** 3.1 / 5 stars (Indeed)  
+**Company Rating:** 3.1 / 5 stars (Indeed)
+https://www.indeed.com/jobs?q=police+officer&latLong=32.80013%2C-98.00115&locString=Weatherford%2C+TX%2C+76088&radius=50&vjk=fbf90024d361f477
 
 ---
 
